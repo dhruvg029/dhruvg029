@@ -23,9 +23,6 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br></br>
 
-## Spotify Playing 🎧
-[![Spotify](https://novatorem-ecru-phi.vercel.app/api/spotify)](https://open.spotify.com/user/31akglritydvferqkz566boml3z4)
-
 ## GitHub Stats
 <center>
   <table>
