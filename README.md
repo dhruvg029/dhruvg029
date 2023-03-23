@@ -1,13 +1,13 @@
 ## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
-- 🌱 I’m currently learning Data Science.
-- 👯 I can collaborate for Machine Learning and AI Hackathons and Competitions.
-- ⚡ Fun fact: I like to play my synthesizer and cook in my free time! Also a fan of Netflix shows and series! :D
+- 🌱 A Data Science and Machine Learning Enthusiast.
+- 👯 Experience with Computer Vision, Image Processing, Deepfake Detection and AI related problems 
+- ⚡ Like to play the synthesizer and cook in my free time! Also a fan of Netflix shows and series! :D
 
 ## Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
 <br />
 <br />
 
@@ -39,4 +39,4 @@
 [linkedin]: https://www.linkedin.com/in/dhruv-gupta-622a161a8/
 [facebook]: https://www.facebook.com/profile.php?id=100004517176239
 [instagram]: https://www.instagram.com/dhruvvggupta/
-[twitter]: https://twitter.com/DhruvGu10436112
+[kaggle]: https://www.kaggle.com/dhruvg029
