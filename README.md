@@ -1,6 +1,6 @@
 ## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
 - 🌱 A Data Science and Machine Learning Enthusiast.
-- 👯 Experience with Computer Vision, Image Processing, Deepfake Detection and AI related problems 
+- 👯 Experience with Computer Vision, Image Processing, Deepfake Detection and AI/ML related problems 
 - ⚡ Like to play the synthesizer and cook in my free time! Also a fan of Netflix shows and series! :D
 
 ## Connect with me
