@@ -1,15 +1,11 @@
 ## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
-- 🌱 A Data Science and Machine Learning Enthusiast.
-- 👯 Experience with Computer Vision, Image Processing, Deepfake Detection and AI/ML related problems 
+
+- 👩‍💻 Data Scientist at [Fractal.ai](https://fractal.ai/), and a Data Science, Data Analytics and a Machine Learning enthusiast.
+- 🎓 B.Tech in Information Technology at Delhi Technological University, India.
+- 👯 Strong skillsets related to Computer Vision, Machine Learning, Deep Learning and Artifical Intelligence. 
 - ⚡ Like to play the synthesizer and cook in my free time! Also a fan of Netflix shows and series! :D
 
-## Connect with me
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
-<br />
-<br />
+I am passionate about coding and implementing different algorithms in many open source as well as personal projects. Working in various companies like [Fractal](https://fractal.ai/), [Noetic LogistieX](https://www.logistiex.com/) and [DVIEW.AI](http://dview.ai/) as an intern has helped me gain relevant experience for the same. 
 
 ## Languages and Tools:
 
@@ -23,9 +19,6 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br></br>
 
-## Spotify Playing 🎧
-[![Spotify](https://novatorem-woad-tau.vercel.app/api/spotify)](https://open.spotify.com/user/31akglritydvferqkz566boml3z4)
-
 ## GitHub Stats
 <center>
   <table>
@@ -35,6 +28,18 @@
     </tr>   
   </table>
 </center>
+
+## Connect with me
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />][kaggle]
+<br />
+<br />
+
+## Spotify Playing 🎧
+[![Spotify](https://novatorem-woad-tau.vercel.app/api/spotify)](https://open.spotify.com/user/31akglritydvferqkz566boml3z4)
 
 [linkedin]: https://www.linkedin.com/in/dhruvgupta29/
 [facebook]: https://www.facebook.com/profile.php?id=100004517176239
