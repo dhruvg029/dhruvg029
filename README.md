@@ -30,13 +30,13 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=dhruvg029&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=dhruvg029&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=dhruvg029&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=dhruvg029&hide=html&layout=compact&theme=buefy"/></td>
     </tr>   
   </table>
 </center>
 
-[linkedin]: https://www.linkedin.com/in/dhruv-gupta-622a161a8/
+[linkedin]: https://www.linkedin.com/in/dhruvgupta29/
 [facebook]: https://www.facebook.com/profile.php?id=100004517176239
-[instagram]: https://www.instagram.com/dhruvvggupta/
+[instagram]: https://www.instagram.com/dhruvviieee/
 [kaggle]: https://www.kaggle.com/dhruvg029
