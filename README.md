@@ -7,7 +7,7 @@
 
 I am passionate about coding and implementing different algorithms in many open source as well as personal projects. Working in various companies like [Fractal](https://fractal.ai/), [Noetic LogistieX](https://www.logistiex.com/) and [DVIEW.AI](http://dview.ai/) as an intern has helped me gain relevant experience for the same. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvg029&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvg029" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvg029&label=Profile%20views&color=brightgreen&style=flat" alt="dhruvg029" /> </p>
 
 ## Most Used Languages
 <img width="300px" align="centre" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=dhruvg029&hide=html&layout=compact&theme=buefy" />
