@@ -25,6 +25,7 @@ I am passionate about coding and implementing different algorithms in many open 
     <tr>
         <td><img width="450px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=dhruvg029&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="500px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=dhruvg029&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="500px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvg029&"/></td>
     </tr>   
   </table>
 </center>
