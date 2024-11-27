@@ -1,9 +1,9 @@
 ## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
 
-- 👩‍💻 Data Scientist at [Fractal.ai](https://fractal.ai/), and a Data Science, Data Analytics and a Machine Learning enthusiast.
-- 🎓 B.Tech in Information Technology at Delhi Technological University, India.
-- 👯 Experience in Computer Vision, Machine Learning, Deep Learning and Artifical Intelligence. 
-- ⚡ Like to play the synthesizer and cook in my free time! Also a fan of Netflix shows and series! :D
+- 👩‍💻 Data Scientist at [Fractal Analytics](https://fractal.ai/), and a Data Science, Data Analytics and a Machine Learning enthusiast.
+- 🎓 Pursued B.Tech in Information Technology from Delhi Technological University (Formerly DCE), New Delhi, India.
+- 👯 3+ years of experience in Data Science, Computer Vision, Machine Learning, Deep Learning and Artifical Intelligence. 
+- ⚡ Like to play the synthesizer and cook in my free time! Also a fan of chess and Netflix shows! :D
 
 I am passionate about coding and implementing different algorithms in many open source as well as personal projects. Working in various companies like [Fractal](https://fractal.ai/), [Noetic LogistieX](https://www.logistiex.com/) and [DVIEW.AI](http://dview.ai/) as an intern has helped me gain relevant experience for the same. 
 
