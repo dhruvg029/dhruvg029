@@ -1,7 +1,7 @@
 ## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
 
 - 👩‍💻 Data Scientist at [Fractal Analytics](https://fractal.ai/), and a Data Science, Data Analytics and a Machine Learning enthusiast.
-- 🎓 Pursued B.Tech in Information Technology from Delhi Technological University (Formerly DCE), New Delhi, India.
+- 🎓 Pursued B.Tech in Information Technology from Delhi Technological University (Formerly DCE), New Delhi.
 - 👯 3+ years of experience in Data Science, Computer Vision, Machine Learning, Deep Learning and Artifical Intelligence. 
 - ⚡ Like to play the synthesizer and cook in my free time! Also a fan of chess and Netflix shows! :D
 
