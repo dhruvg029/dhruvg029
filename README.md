@@ -23,16 +23,6 @@ I am passionate about coding and implementing different algorithms in many open 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br></br>
 
-## GitHub Stats
-<center>
-  <table>
-    <tr>
-        <td><img width="475x" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=dhruvg029&hide=html&layout=compact&theme=buefy"/></td>
-        <td><img width="475px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvg029&"/></td>
-    </tr>   
-  </table>
-</center>
-
 ## Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
