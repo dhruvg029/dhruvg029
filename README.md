@@ -17,7 +17,7 @@ I am passionate about coding and implementing different algorithms in many open 
 - [**Skin Disease Detection using Saliency Maps and Segmentation Techniques**](https://link.springer.com/chapter/10.1007/978-3-031-31407-0_25): Proposes a model which uses Ph2 dataset, preprocessed by various image related techniques such as deblurring, noise reduction and then image enhancement. (May 2023)
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,r,matlab,latex,anaconda,git,github,sklearn,selenium,opencv,pytorch,tensorflow,aws,azure,ai,vscode,atom,pycharm,docker,fastapi,regex,flask,gcp,gitlab,kubernetes,&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,r,matlab,latex,anaconda,git,github,sklearn,selenium,opencv,pytorch,tensorflow,aws,azure,ai,vscode,atom,pycharm,docker,fastapi,regex,flask,gcp,gitlab,kubernetes,&perline=14)](https://skillicons.dev)
 <br></br>
 
 ## Connect with me
