@@ -1,9 +1,10 @@
-## Hi there, I am Dhruv Gupta - aka [dhruvg029](https://github.com/dhruvg029)!👋
+## Hi there, I am Dhruv - aka [dhruvg029](https://github.com/dhruvg029)!👋
 
-- 👩‍💻 A Data Science, Data Analytics and a Machine Learning enthusiast at KU Leuven, Belgium.
+- 👩‍💻 Studying Masters of Statistics and Data Science at KU Leuven, Belgium.
 - 🎓 Pursued B.Tech in Information Technology from Delhi Technological University (Formerly DCE), India.
-- 👯 3+ years of experience in Data Science, Machine Learning, Deep Learning and Artifical Intelligence. 
-- ⚡ Like to play the synthesizer and cook in my free time! Also a fan of chess and Netflix shows! :D
+- 👯 3+ years of experience in Data Science, Machine Learning, Deep Learning and Artifical Intelligence.
+- 🥳 Passionate about constant learning, making projects and growth in the field of AI and Data Science.
+- ⚡ Like to cook and gym in my free time! Also a fan of chess and Netflix shows! :D
 
 I am passionate about coding and implementing different algorithms in many open source as well as personal projects. Working in various companies like [Fractal](https://fractal.ai/), [Noetic LogistieX](https://www.logistiex.com/) and [DVIEW.AI](http://dview.ai/) as an intern has helped me gain relevant experience for the same. 
 
