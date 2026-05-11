@@ -10,9 +10,6 @@ I am passionate about coding and implementing different algorithms in many open 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvg029&label=Profile%20views&color=blue&style=for-the-badge" alt="dhruvg029" /> </p>
 
-## Most Used Languages
-<img width="300px" align="centre" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=dhruvg029&hide=html&layout=compact&theme=buefy" />
-
 ## Languages and Tools
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
