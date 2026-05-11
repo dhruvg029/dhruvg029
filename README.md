@@ -12,7 +12,7 @@ I am passionate about coding and implementing different algorithms in many open 
 
 ## Research Publications
 
-- [**Uncovering visual attention-based multi-level tampering traces for face forgery detection**](https://link.springer.com/article/10.1007/s11760-023-02774-x): Proposes a novel and a lightweight architecture called DenseTrace-Net, which aims to extract comprehensive and refined face tampering traces locally and globally. (Nov 2023)
+- [**Uncovering visual attention-based multi-level tampering traces for face forgery detection**](https://link.springer.com/article/10.1007/s11760-023-02774-x): Proposes a novel and a lightweight architecture, which aims to extract comprehensive and refined face tampering traces locally and globally. (Nov 2023)
 - [**SDL-Net: A combined CNN and RNN human activity recognition model**](https://ieeexplore.ieee.org/document/10201657): Generates skeletal representations using Part Affinity Fields (PAFs) and skeletal gait energy images, capturing sequential patters and trends. (Aug 2023)
 - [**Skin Disease Detection using Saliency Maps and Segmentation Techniques**](https://link.springer.com/chapter/10.1007/978-3-031-31407-0_25): Proposes a model which uses Ph2 dataset, preprocessed by various image related techniques such as deblurring, noise reduction and then image enhancement. (May 2023)
 
