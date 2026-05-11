@@ -32,8 +32,9 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 [<img align="left" alt="medium" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg"/>][medium]
 [<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/>][gmail]
 [<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/>][discord]
-<br></br>
 
+<br></br>
+<br></br>
 
 ## Spotify Playing 🎧
 [![Spotify](https://novatorem-woad-tau.vercel.app/api/spotify)](https://open.spotify.com/user/31akglritydvferqkz566boml3z4)
