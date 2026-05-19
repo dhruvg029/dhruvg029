@@ -16,6 +16,16 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,r,matlab,latex,anaconda,git,github,sklearn,selenium,opencv,pytorch,tensorflow,aws,azure,ai,vscode,atom,pycharm,docker,fastapi,regex,flask,gcp,gitlab,kubernetes,&perline=14)](https://skillicons.dev)
 
 
+## Industrial Experience 
+
+- **Data Science - Imagineer @ [Fractal Analytics](https://fractal.ai/)**: Tested and analyzed multi-client sales and finance data using Azure Databricks and a Revenue Growth Management model, resolving configuration and coding issues to optimize sales predictions. Developed a dynamic workflow incorporating pricing, and Price Pack Architecture models. Enhanced prediction accuracy by almost 20% by applying regression methods like OLS and RidgeCV to estimate sales and SKU-level elasticities, leveraging R², MAPE, and WAPE metrics. Scaled the entire system in Python and PySpark, integrating innovation and demand transference models for advanced, large-scale market analysis.
+
+- **Software Development Intern @ [Noetic LogistieX](https://www.logistiex.com/)**: Developed a robust image processing system using Python, OpenCV, and Scikit-Image, featuring over 10 custom functions to optimize catalog transformation across various platforms. Established comprehensive image guidelines covering formats, backgrounds, color spaces, paddings, and margins for e-commerce products. Leveraged Selenium for web scraping to extract and analyze data from Amazon and Flipkart, and utilized Google Vertex AI and Model Garden to train models for accurate label predictions on curated image datasets. 
+
+- **Project Intern @ [Fractal Analytics](https://fractal.ai/):** Created a Dialogflow chatbot using Google Cloud Platform and Python, which is designed for performing certain tasks related to dataset creation and deletion and integrated with third party apps like Dialogflow Messenger and Google Calendar for implementation purposes.
+
+- **Research Intern @ [DView.AI](https://dview.ai/):** Contributed towards the creation of a new Yoga dataset, developed various human pose based modules and systems in Python for achieving desirable results on the same and summarized, and researched about different methods & generated reports on various Yoga Pose Classification techniques.
+
 
 ## Research Publications
 
