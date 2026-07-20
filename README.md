@@ -12,11 +12,11 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 
 
 
-## Languages and Tools
+## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,r,matlab,latex,anaconda,git,github,sklearn,selenium,opencv,pytorch,tensorflow,aws,azure,ai,vscode,atom,pycharm,docker,fastapi,regex,flask,gcp,gitlab,kubernetes,&perline=14)](https://skillicons.dev)
 
 
-## Industrial Experience 
+## 🏭 Industrial Experience 
 
 - 📈 Data Science - Imagineer @ [Fractal Analytics](https://fractal.ai/) from **Sept 2023 to Aug 2025** 
 - 💻 Software Development Intern @ [Noetic LogistieX](https://www.logistiex.com/) from **Apr 2023 to Jul 2023**
@@ -24,27 +24,20 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 - 🤓 Research Intern @ [DView.AI](https://dview.ai/) from **Oct 2021 to Mar 2022**
 
 
-## Research Publications
+## 🗒️ Research Publications
 
 - [**Uncovering visual attention-based multi-level tampering traces for face forgery detection**](https://link.springer.com/article/10.1007/s11760-023-02774-x): Proposes a novel and a lightweight architecture, which aims to extract comprehensive and refined face tampering traces locally and globally. (Nov 2023)
 - [**SDL-Net: A combined CNN and RNN human activity recognition model**](https://ieeexplore.ieee.org/document/10201657): Generates skeletal representations using Part Affinity Fields (PAFs) and skeletal gait energy images, capturing sequential patters and trends. (Aug 2023)
 - [**Skin Disease Detection using Saliency Maps and Segmentation Techniques**](https://link.springer.com/chapter/10.1007/978-3-031-31407-0_25): Proposes a model which uses Ph2 dataset, preprocessed by various image related techniques such as deblurring, noise reduction and then image enhancement. (May 2023)
 
 
-
-## Connect with me
+## 🌐 Socials:
 [<img align="left" alt="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>][linkedin]
 [<img align="left" alt="messenger" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Messenger.svg"/>][facebook]
 [<img align="left" alt="instagram" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
 [<img align="left" alt="medium" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg"/>][medium]
 [<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/>][gmail]
 [<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/>][discord]
-
-<br></br>
-<br></br>
-
-## Spotify Playing 🎧
-[![Spotify](https://novatorem-woad-tau.vercel.app/api/spotify)](https://open.spotify.com/user/31akglritydvferqkz566boml3z4)
 
 [discord]: https://discord.com/users/@750252375138238496
 [linkedin]: https://www.linkedin.com/in/dhruvgupta29/
