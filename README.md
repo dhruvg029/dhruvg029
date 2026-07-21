@@ -11,7 +11,7 @@
 <br><br>
 
 <h3><code>dhruvg029@github ~ $ ./contributions.sh</code></h3>
-<img src="./svgs/contrib-heatmap.svg" width="860" />
+<img src="./svgs/streak.svg" width="860" />
 
 <br><br>
 
