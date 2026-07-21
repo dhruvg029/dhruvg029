@@ -30,14 +30,14 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 - [**SDL-Net: A combined CNN and RNN human activity recognition model**](https://ieeexplore.ieee.org/document/10201657): Generates skeletal representations using Part Affinity Fields (PAFs) and skeletal gait energy images, capturing sequential patters and trends. (Aug 2023)
 - [**Skin Disease Detection using Saliency Maps and Segmentation Techniques**](https://link.springer.com/chapter/10.1007/978-3-031-31407-0_25): Proposes a model which uses Ph2 dataset, preprocessed by various image related techniques such as deblurring, noise reduction and then image enhancement. (May 2023)
 
-
 ## 🌐 Socials:
-[<img align="left" alt="LinkedIn" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>][linkedin]
-[<img align="left" alt="messenger" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Messenger.svg"/>][facebook]
-[<img align="left" alt="instagram" src="https://skillicons.dev/icons?i=instagram"/>][instagram]
-[<img align="left" alt="medium" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg"/>][medium]
-[<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg"/>][gmail]
-[<img align="left" alt="gmail" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg"/>][discord]
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/@750252375138238496) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvviieee) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvgupta29) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dhruvg029) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/dhruvg029) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruvg029@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004517176239)
 
 [discord]: https://discord.com/users/@750252375138238496
 [linkedin]: https://www.linkedin.com/in/dhruvgupta29/
