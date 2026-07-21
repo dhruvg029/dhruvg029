@@ -5,7 +5,7 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 <h3><code>dhruvg029@github ~ $ ./contributions.sh</code></h3>
 <img src="./svgs/streak.svg" width="860" />
 
-<br><br>
+<br>
 
 <h3><code>dhruvg029@github ~ $ whoami</code></h3>
 <table>
@@ -15,7 +15,21 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
     </tr>
 </table>
 
-<br><br>
+<br>
+
+<h3><code>dhruvg029@github ~ $ ./stats.sh</code></h3>
+<table>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.shion.dev/api?username=dhruvg029&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=dhruvg029&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <h3><code>dhruvg029@github ~ $ ./socials.sh</code></h3>
 
@@ -29,5 +43,8 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 [kaggle]: https://www.kaggle.com/dhruvg029
 [medium]: https://medium.com/@dhruvg029
 [gmail]: mailto:dhruvg029@gmail.com
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
