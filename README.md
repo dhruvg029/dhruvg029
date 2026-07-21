@@ -44,12 +44,4 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 [medium]: https://medium.com/@dhruvg029
 [gmail]: mailto:dhruvg029@gmail.com
 
-<br>
-
-<h3><code>✍️ dhruvg029@github ~ $ ./quotes.sh</code></h3>
-
-<p align = "center">
-    <img width = "600" src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
 </div>
