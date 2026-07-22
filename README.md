@@ -1,13 +1,19 @@
-Compassionate and dedicated individual with more than 4 years of industrial and academic experience in the field of Data Science and Artificial Intelligence, with strong knowledge in machine learning, statistical modeling, and large-scale data analytics. A team player with strong communication and leadership qualities, apart from a mindset of learning consistently. Currently exploring scalable AI solutions for real-world business problems.
-
 <div align = "center">
     
 <h3><code>💻 dhruvg029@github ~ $ ./contributions.sh</code></h3>
 <img src="./svgs/streak.svg" width="860" />
 
 <br>
+<hr>
 
 <h3><code>👨 dhruvg029@github ~ $ whoami</code></h3>
+
+<div align = "left">
+Compassionate and dedicated individual with more than 4 years of industrial and academic experience in the field of Data Science and Artificial Intelligence, with strong knowledge in machine learning, statistical modeling, and large-scale data analytics. A team player with strong communication and leadership qualities, apart from a mindset of learning consistently. Currently exploring scalable AI solutions for real-world business problems.
+</div>
+
+<br>
+
 <table>
     <tr>
     <td valign="top"><img src="./svgs/dhruv-ascii.svg" width="370" /></td>
@@ -16,6 +22,7 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 </table>
 
 <br>
+<hr>
 
 <h3><code>📊 dhruvg029@github ~ $ ./stats.sh</code></h3>
 <table>
@@ -30,6 +37,7 @@ Compassionate and dedicated individual with more than 4 years of industrial and 
 </table>
 
 <br>
+<hr>
 
 <h3><code>🌐 dhruvg029@github ~ $ ./socials.sh</code></h3>
 
